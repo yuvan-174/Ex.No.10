@@ -1,7 +1,7 @@
 # Ex.No.10
 Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
 
-## Date:
+## Date: 13/11/2025
 ## Reg. No.212223040250
 
 ## Aim:
@@ -58,7 +58,7 @@ ________________________________________
 4.	Final Version: The polished version of the content after incorporating feedback and refining the prompts.
 
 ## content generation scenarios:
-### Scenario 1: Creative Writing - Sci-Fi Short Story
+## Scenario 1: Creative Writing - Sci-Fi Short Story
 
 The goal here is to use prompt patterns like Query Decomposition, Tail Generation, and Semantic Filter to create a coherent and engaging narrative.
 
@@ -144,7 +144,7 @@ Result: Pitch-Perfect. The style is clearly modeled on cosmic horror (H.P. Lovec
 
 ------------------------------------------------------------------------
 
-### Scenario 2: Product Launch Announcement
+## Scenario 2: Product Launch Announcement
 ### 1. Basic Prompt (First Draft)
 
 This generates the core announcement content.
@@ -174,6 +174,8 @@ Expected Outcome:	A general, perhaps generic, announcement with a brief descript
 5. Quote from CEO
 
 6.  Ensure the content focuses on how ChronoFlow simplifies life and provides effortless comfort. For the Image Request section, generate a high-quality, sleek, and modern image of the ChronoFlow device integrated into a luxurious, well-lit home setting."
+
+### Output:
 
 <img width="1024" height="1536" alt="ChatGPT Image Nov 6, 2025, 09_32_02 AM" src="https://github.com/user-attachments/assets/82cff620-178f-4dc0-ae5e-262614311f88" />
 
